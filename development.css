@@ -1,0 +1,27 @@
+h1{
+    color:darkslateblue;
+    text-align: center;
+}
+
+h3{
+    color:slateblue;
+}
+
+p{
+    color:rgb(133, 105, 192);
+}
+
+div{
+    background-color:rgb(255, 182, 232);
+    height: 45px;
+    width: 275px;
+    border-radius: 10px;
+}
+
+body{
+    background-color:lavenderblush;
+}
+
+img{
+    max-width: 100%;
+}
